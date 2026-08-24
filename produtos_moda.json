@@ -1,88 +1,277 @@
 {
   "produtos": [
     {
-      "nome_produto": "Vestido Midi Alcinha em Viscose com Estampa Floral",
-      "descricao_produto": "Vestido midi em viscose com estampa floral em tons de azul, alças finas e decote quadrado, com caimento leve e confortável.",
-      "tipo_produto": "vestido",
-      "valor_produto": "R$ 139,90",
+      "nome": "Vestido Midi Alcinha em Viscose com Estampa Floral",
+      "descricao": "Vestido midi em viscose com estampa floral em tons de azul, alças finas e decote quadrado, com caimento leve e confortável.",
+      "tipo": "vestido",
+      "valor": "R$ 139,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/931283141/original/3.jpg"
     },
     {
-      "nome_produto": "Vestido Midi Transpassado com Estampa Floral",
-      "descricao_produto": "Vestido midi transpassado com estampa floral e mangas bufantes, ideal para looks do trabalho ou passeios de fim de semana.",
-      "tipo_produto": "vestido",
-      "valor_produto": "R$ 159,90",
+      "nome": "Vestido Midi Transpassado com Estampa Floral",
+      "descricao": "Vestido midi transpassado com estampa floral e mangas bufantes, ideal para looks do trabalho ou passeios de fim de semana.",
+      "tipo": "vestido",
+      "valor": "R$ 159,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/646845521/small/3.jpg"
     },
     {
-      "nome_produto": "Vestido Midi em Chiffon com Textura Plissada e Estampa Floral",
-      "descricao_produto": "Vestido midi em chiffon, com decote V, alças médias, textura drapeada plissada e estampa floral.",
-      "tipo_produto": "vestido",
-      "valor_produto": "R$ 179,90",
+      "nome": "Vestido Midi em Chiffon com Textura Plissada e Estampa Floral",
+      "descricao": "Vestido midi em chiffon, com decote V, alças médias, textura drapeada plissada e estampa floral.",
+      "tipo": "vestido",
+      "valor": "R$ 179,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/927534745/small/3.jpg"
     },
     {
-      "nome_produto": "Camisa Social Slim em Algodão Maquinetado com Listras",
-      "descricao_produto": "Camisa social masculina slim, 100% algodão, gola colarinho e listras verticais, ideal para ocasiões formais.",
-      "tipo_produto": "camisa",
-      "valor_produto": "R$ 149,90",
+      "nome": "Vestido Midi em Tecido Acetinado com Estampa Floral",
+      "descricao": "Vestido midi acetinado com estampa floral, leve e democrático, ótimo para compor visuais do dia a dia.",
+      "tipo": "vestido",
+      "valor": "R$ 169,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/927624396/small/13.jpg"
+    },
+    {
+      "nome": "Vestido Midi Floral com Botões",
+      "descricao": "Vestido longo floral com abotoamento frontal, em viscose, ideal para looks leves e femininos.",
+      "tipo": "vestido",
+      "valor": "R$ 149,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/550630867/small/1.jpg"
+    },
+    {
+      "nome": "Vestido Midi Acetinado Estampa Floral com Detalhe Sobreposto",
+      "descricao": "Vestido midi acetinado, decote V, alças finas cruzadas nas costas e sobreposição no busto com estampa floral.",
+      "tipo": "vestido",
+      "valor": "R$ 155,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/927666465/original/3.jpg"
+    },
+    {
+      "nome": "Vestido Midi em Linho com Estampa Floral",
+      "descricao": "Vestido midi em linho com amarração nas costas e estampa floral, leve e delicado para o dia a dia.",
+      "tipo": "vestido",
+      "valor": "R$ 189,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/652249080/small/12.jpg"
+    },
+    {
+      "nome": "Vestido New Midi em Viscose com Linho e Estampa Floral",
+      "descricao": "Vestido new midi confeccionado em viscose e linho, com estampa floral e caimento fluido.",
+      "tipo": "vestido",
+      "valor": "R$ 199,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/927373697/small/3.jpg"
+    },
+    {
+      "nome": "Vestido Long Midi em Chiffon Floral",
+      "descricao": "Vestido long midi evasê com alcinhas finas, confeccionado em chiffon com estampa floral.",
+      "tipo": "vestido",
+      "valor": "R$ 199,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/930454412/original/3.jpg"
+    },
+    {
+      "nome": "Vestido Midi Texturizado com Manga Longa",
+      "descricao": "Vestido midi texturizado, gola redonda, manga longa e detalhe vazado nas costas, ideal para produções elegantes.",
+      "tipo": "vestido",
+      "valor": "R$ 65,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/931193411/original/3.jpg"
+    },
+    {
+      "nome": "Camisa Social Slim em Algodão Maquinetado com Listras",
+      "descricao": "Camisa social masculina slim, 100% algodão, gola colarinho e listras verticais, ideal para ocasiões formais.",
+      "tipo": "camisa",
+      "valor": "R$ 149,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/745244595/small/13.jpg"
     },
     {
-      "nome_produto": "Camisa Comfort Manga Longa em Flanela com Estampa Xadrez Azul",
-      "descricao_produto": "Camisa masculina em flanela, modelagem comfort, manga longa e estampa xadrez, perfeita para o dia a dia.",
-      "tipo_produto": "camisa",
-      "valor_produto": "R$ 135,90",
+      "nome": "Camisa Comfort Manga Longa em Flanela com Estampa Xadrez",
+      "descricao": "Camisa masculina em flanela, modelagem comfort, manga longa e estampa xadrez, perfeita para o dia a dia.",
+      "tipo": "camisa",
+      "valor": "R$ 135,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/598255525/original/3.jpg"
     },
     {
-      "nome_produto": "Camisa Comfort Básica em Linho com Manga Curta Preto",
-      "descricao_produto": "Camisa masculina em linho, modelo comfort, manga curta e sem estampa, leve e respirável.",
-      "tipo_produto": "camisa",
-      "valor_produto": "R$ 119,90",
+      "nome": "Camisa Comfort Básica em Linho com Manga Curta",
+      "descricao": "Camisa masculina em linho, modelo comfort, manga curta e sem estampa, leve e respirável.",
+      "tipo": "camisa",
+      "valor": "R$ 119,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/631200527/original/3.jpg"
     },
     {
-      "nome_produto": "Saia Midi Alfaiatada com Textura Plissada",
-      "descricao_produto": "Saia evasê midi de corte alfaiatado, com textura plissada e fechamento traseiro por zíper.",
-      "tipo_produto": "saia",
-      "valor_produto": "R$ 169,90",
-      "link_imagem": "https://img.lojasrenner.com.br/item/928452160/small/3.jpg"
+      "nome": "Camisa Social Masculina Slim Fit Teodoro Jacquard",
+      "descricao": "Camisa social slim fit em algodão jacquard, ideal para looks formais e de trabalho.",
+      "tipo": "camisa",
+      "valor": "R$ 159,90",
+      "link_imagem": "https://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/259035951./5B7AD79BE51208E3FB61E11654D3B3BA/low_resolution.jpg"
     },
     {
-      "nome_produto": "Saia Jeans Reta com Cintura Alta e Bolsos",
-      "descricao_produto": "Saia jeans com modelagem reta, cintura alta e bolsos five pockets, ideal para looks casuais.",
-      "tipo_produto": "saia",
-      "valor_produto": "R$ 119,90",
+      "nome": "Camisa Manga Longa Flanela Xadrez",
+      "descricao": "Camisa masculina manga longa em flanela xadrez, clássica e versátil para looks casuais.",
+      "tipo": "camisa",
+      "valor": "R$ 129,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/550466008/small/10.jpg"
+    },
+    {
+      "nome": "Camisa Manga Longa em Flanela com Estampa Xadrez",
+      "descricao": "Camisa masculina confeccionada em flanela, gola colarinho, mangas longas e estampa xadrez.",
+      "tipo": "camisa",
+      "valor": "R$ 125,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/879685097/small/3.jpg"
+    },
+    {
+      "nome": "Camisa em Flanela Xadrez e Manga Longa Lenhador",
+      "descricao": "Camisa manga longa em flanela com estampa xadrez lenhador, estilo rústico e elegante.",
+      "tipo": "camisa",
+      "valor": "R$ 139,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/589198266/small/1.jpg"
+    },
+    {
+      "nome": "Camisa Manga Curta em Linho",
+      "descricao": "Camisa masculina manga curta em linho, com bolso frontal, leve e confortável para dias quentes.",
+      "tipo": "camisa",
+      "valor": "R$ 109,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/551772331/small/1.jpg"
+    },
+    {
+      "nome": "Camisa Comfort em Linho Manga Curta com Estampa Floral",
+      "descricao": "Camisa masculina manga curta com estampa floral, mix de fibras naturais, confortável e respirável.",
+      "tipo": "camisa",
+      "valor": "R$ 99,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/563992445/small/3.jpg"
+    },
+    {
+      "nome": "Camisa Manga Curta em Linho com Estampa de Beija-Flor",
+      "descricao": "Camisa em linho com gola colarinho, manga curta e estampa com efeito pintura de beija-flor e flores.",
+      "tipo": "camisa",
+      "valor": "R$ 119,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/884459908/small/12.jpg"
+    },
+    {
+      "nome": "Saia Midi Plissada Lisa Curve & Plus Size",
+      "descricao": "Saia midi lisa e plissada, cós com elástico nas costas, modelo Curve & Plus Size confortável.",
+      "tipo": "saia",
+      "valor": "R$ 129,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/551950395/small/1.jpg"
+    },
+    {
+      "nome": "Saia Midi em Tecido Acetinado com Textura Plissada e Estampa Oncinha",
+      "descricao": "Saia midi acetinada, cós elástico, estampa animal print onça e textura plissada.",
+      "tipo": "saia",
+      "valor": "R$ 149,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/914576997/small/3.jpg"
+    },
+    {
+      "nome": "Saia Midi Plissada de Alfaiataria com Estampa Xadrez",
+      "descricao": "Saia midi plissada de alfaiataria com estampa xadrez marcante e cós estruturado que valoriza a cintura.",
+      "tipo": "saia",
+      "valor": "R$ 279,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/931095271/original/3.jpg"
+    },
+    {
+      "nome": "Saia Reta New Midi em Jeans Resinado com Fenda Frontal",
+      "descricao": "Saia new midi reta em jeans resinado, com fenda frontal e bolsos, look moderno e alongado.",
+      "tipo": "saia",
+      "valor": "R$ 169,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/929120749/small/3.jpg"
+    },
+    {
+      "nome": "Saia Jeans Reta com Cintura Alta e Bolsos",
+      "descricao": "Saia jeans com modelagem reta, cintura alta e bolsos five pockets, ideal para looks casuais.",
+      "tipo": "saia",
+      "valor": "R$ 119,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/930921834/original/13.jpg"
     },
     {
-      "nome_produto": "Saia Lápis Midi Alfaiatada com Fenda e Estampa Risca de Giz",
-      "descricao_produto": "Saia lápis midi alfaiatada, com passantes no cós, fenda nas costas e estampa risca de giz, ótima para o escritório.",
-      "tipo_produto": "saia",
-      "valor_produto": "R$ 159,90",
+      "nome": "Saia Curta Rodada em Jeans",
+      "descricao": "Saia jeans curta rodada, cós com passantes, fechamento tradicional por botão e zíper.",
+      "tipo": "saia",
+      "valor": "R$ 99,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/928368081/original/3.jpg"
+    },
+    {
+      "nome": "Saia Lápis Midi Alfaiatada com Fenda e Estampa Risca de Giz",
+      "descricao": "Saia lápis midi alfaiatada, com passantes no cós, fenda nas costas e estampa risca de giz, ótima para o escritório.",
+      "tipo": "saia",
+      "valor": "R$ 159,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/920449281/small/3.jpg"
     },
     {
-      "nome_produto": "Short Mom em Jeans com Cintura Alta",
-      "descricao_produto": "Short jeans feminino modelo mom, cintura alta, bolsos frontais e traseiros e lavagem com efeito desbotado.",
-      "tipo_produto": "short",
-      "valor_produto": "R$ 129,90",
+      "nome": "Saia Lápis Alfaiatada com Cintura Alta e Bolsos",
+      "descricao": "Saia lápis alfaiatada, cintura alta, bolsos, fenda nas costas e fechamento por zíper.",
+      "tipo": "saia",
+      "valor": "R$ 149,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/889248632/small/12.jpg"
+    },
+    {
+      "nome": "Saia Lápis Alfaiatada com Cós Simples e Fenda Frontal",
+      "descricao": "Saia midi lápis alfaiatada, com fechamento frontal no cós e fenda, corte estruturado e elegante.",
+      "tipo": "saia",
+      "valor": "R$ 119,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/892259973/original/3.jpg"
+    },
+    {
+      "nome": "Short Mom em Jeans com Cintura Alta",
+      "descricao": "Short jeans feminino modelo mom, cintura alta, bolsos frontais e traseiros e lavagem com efeito desbotado.",
+      "tipo": "short",
+      "valor": "R$ 129,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/928158219/original/3.jpg"
     },
     {
-      "nome_produto": "Short em Moletom com Cordão e Cós Elástico",
-      "descricao_produto": "Short em moletom sem forro, cós elástico e cordão para ajuste, super confortável para o dia a dia.",
-      "tipo_produto": "short",
-      "valor_produto": "R$ 49,90",
+      "nome": "Short em Moletom com Cordão e Cós Elástico",
+      "descricao": "Short em moletom sem forro, cós elástico e cordão para ajuste, super confortável para o dia a dia.",
+      "tipo": "short",
+      "valor": "R$ 49,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/929536138/original/3.jpg"
     },
     {
-      "nome_produto": "Short Alfaiatado com Pregas e Bolsos",
-      "descricao_produto": "Short alfaiatado feminino, com passantes na cintura, pregas frontais e bolsos dianteiros, para um look estruturado.",
-      "tipo_produto": "short",
-      "valor_produto": "R$ 99,90",
+      "nome": "Short Alfaiatado com Pregas e Bolsos",
+      "descricao": "Short alfaiatado feminino, com passantes na cintura, pregas frontais e bolsos dianteiros, para um look estruturado.",
+      "tipo": "short",
+      "valor": "R$ 99,90",
       "link_imagem": "https://img.lojasrenner.com.br/item/928104940/medium/3.jpg"
+    },
+    {
+      "nome": "Short Cintura Alta em Jeans com Brilho Aplicado",
+      "descricao": "Short jeans cintura alta com bolsos e termocolantes brilhantes, estilo despojado e cheio de estilo.",
+      "tipo": "short",
+      "valor": "R$ 55,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/682244466/original/3.jpg"
+    },
+    {
+      "nome": "Short Cintura Alta em Jeans com Barra Arredondada",
+      "descricao": "Short jeans cintura alta, passantes no cós, bolsos com recortes e barra arredondada.",
+      "tipo": "short",
+      "valor": "R$ 119,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/922850407/small/3.jpg"
+    },
+    {
+      "nome": "Short Cintura Alta em Jeans com Ilhós Aplicados",
+      "descricao": "Short jeans cintura alta com passantes no cós, fechamento por botão e zíper e ilhoses aplicados na frente.",
+      "tipo": "short",
+      "valor": "R$ 109,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/928251261/small/3.jpg"
+    },
+    {
+      "nome": "Short Jeans Clássico com Cintura Média",
+      "descricao": "Short jeans clássico, cintura média, cós com passantes, bolsos frontais e traseiros com costuras contrastantes.",
+      "tipo": "short",
+      "valor": "R$ 99,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/834067148/original/3.jpg"
+    },
+    {
+      "nome": "Short Runner em Moletom com Amarração e Lettering Lateral",
+      "descricao": "Short runner em moletom, cós elástico com cordão, escrita lateral, modelo soltinho para o dia a dia.",
+      "tipo": "short",
+      "valor": "R$ 89,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/557292160/small/3.jpg"
+    },
+    {
+      "nome": "Short em Moletom com Amarração e Viés Contrastante",
+      "descricao": "Short em moletom com elástico e amarração na cintura, vieses contrastantes e pegada sportcore.",
+      "tipo": "short",
+      "valor": "R$ 79,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/928507440/small/3.jpg"
+    },
+    {
+      "nome": "Short Curto em Moletom com Viés Contrastante",
+      "descricao": "Short runner curto, cós elástico, viés contrastante, confeccionado em moletom sem forro.",
+      "tipo": "short",
+      "valor": "R$ 49,90",
+      "link_imagem": "https://img.lojasrenner.com.br/item/929041602/original/3.jpg"
     }
   ]
 }
